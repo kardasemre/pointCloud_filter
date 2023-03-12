@@ -1,2 +1,3 @@
 # pointCloud_filter
-.xyz dosyalarının filtrelenmesi
+ornek.xyz dosyası ana dosyamız.
+ornek_converted.xyz dosyası ise programdan çıkan filtrelenmiş dosyadır.
